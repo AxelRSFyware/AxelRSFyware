@@ -17,3 +17,5 @@ para que no traspasar el cuello del traje en la cara del usuario, ademas de pode
 También en esta rama se implemento la solución del seguimiento del traje donde pues se seguía el movimiento del traje mediante el movimiento de la cara donde pues dependiendo de la rotación en los ejes X y Y, se iba movimiento el traje dependiendo el movimiento de la cara del usuario.
 Para el movimiento de la caída de la calabaza pues seguía el movimiento de la cara con el componente Head Binding donde pues se señalaba  la cara del usuario y después con script hacíamos que el que se apareciera en una parte de la parte de la aplicación, y de ahí en parte del código pues obteníamos la posición de la cara del usuario
 entonces ahí hacíamos el seguimiento de la calabaza con la cara  y pues ya al obtener al ultimo momento de la posición de la cabeza se ajustaba después de dar dos rebotes rápidos para como si estuviera cayendo la calabaza.
+
+![This is an image](https://docs.snap.com/assets/images/3d-body-tracking_3d-body-tracking-image-2-2dd29341f01b0d84e5f0c0fabbfc264c.png)
